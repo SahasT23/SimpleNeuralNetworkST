@@ -1,5 +1,5 @@
 # SimpleNeuralNetworkST
-### A project to understand how a basic neural network operates with the help of tensorflow as a basis for future machine learning projects.
+## A project to understand how a basic neural network operates with the help of tensorflow as a basis for future machine learning projects.
 
 ### I used the well known MNIST dataset to train the neural network. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
